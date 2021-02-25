@@ -1,19 +1,9 @@
-# Entrance page
+## Firm Networks
 
-To this page you should add links to your interactive html-maps that are located under your Exercise-5 repository like the following (*modify the username part* + *notice that **e**xercise starts with lower e -letter *):
 
- `automating-gis-processes.github.io/exercise-5-MyGitHubUserName`
-
-Here is an example how to do it in MarkDown for user HTenkanen:
-
-```
-[Link to test map](https://automating-gis-processes.github.io/exercise-5-HTenkanen/test_map.html)
-```
-
-## My maps
-
-Add here links to the maps that you have created:
-
- - [Link to test map](https://marcaureledivernois.github.io/firm-network/Network1994.html)
- - Replace this with your link
-
+- [Network 1990-1994](https://marcaureledivernois.github.io/firm-network/Network1994.html)
+- [Network 1995-1999](https://marcaureledivernois.github.io/firm-network/Network1999.html)
+- [Network 2000-2004](https://marcaureledivernois.github.io/firm-network/Network2004.html)
+- [Network 2005-2009](https://marcaureledivernois.github.io/firm-network/Network2009.html)
+- [Network 2010-2014](https://marcaureledivernois.github.io/firm-network/Network2014.html)
+- [Network 2015-2019](https://marcaureledivernois.github.io/firm-network/Network2019.html)
