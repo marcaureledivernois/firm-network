@@ -1,9 +1,9 @@
 theme: minima
-title: Pik Website!
+title: Firm Networks 
 author: Marc-Aurèle Divernois
 email: marc-aurele.divernois@epfl.ch
 description: > # this means to ignore newlines until "baseurl:"
-  Training Website
+  Firm networks
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
