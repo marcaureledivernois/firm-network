@@ -1,6 +1,6 @@
 ## Firm Networks
 
-
+{% include Network1994.html %}
 ![Network 1990-1994](Network1994.html)
 - [Network 1995-1999](https://marcaureledivernois.github.io/firm-network/Network1999.html)
 - [Network 2000-2004](https://marcaureledivernois.github.io/firm-network/Network2004.html)
