@@ -1,9 +1,9 @@
 theme: minima
-title: Analysis of Large Market Data Using Neural Networks: A Causal Approach
+title: Analysis of Large Market Data
 author: Marc-Aurèle Divernois
 email: marc-aurele.divernois@epfl.ch
 description: > # this means to ignore newlines until "baseurl:"
-  Online appendix of the paper Analysis of Large Market Data Using Neural Networks: A Causal Approach - Online Appendix
+  Online appendix
 
 # social links
 github_username:  marcaureledivernois # DO NOT include the @ character, or else the build will fail!
