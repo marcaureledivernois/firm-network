@@ -8,3 +8,21 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username:  marcaureledivernois # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - frontpage.md
+
+#include:
+#    - _pages
+
+exclude: 
+    - README.md
+#    - .gitignore
+#    - docker-compose.yml
+#    - Gemfile
+#    - Gemfile.lock
+#    - LICENSE
