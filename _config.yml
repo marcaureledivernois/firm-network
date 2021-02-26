@@ -1,6 +1,5 @@
 theme: minima
-title: Analysis of Large Market Data Using Neural Networks - A Causal Approach
-author: Marc-Aurèle Divernois
+title: Analysis of Large Market Data Using Neural Networks
 email: marc-aurele.divernois@epfl.ch
 description: > # this means to ignore newlines until "baseurl:"
 
