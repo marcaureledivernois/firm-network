@@ -13,3 +13,5 @@ Click on the links below to show interactive firm networks. Plots take several s
 - [Network 2005-2009](https://marcaureledivernois.github.io/firm-network/docs/Network2009.html)
 - [Network 2010-2014](https://marcaureledivernois.github.io/firm-network/docs/Network2014.html)
 - [Network 2015-2019](https://marcaureledivernois.github.io/firm-network/docs/Network2019.html)
+
+<img src="./docs/Network2019.html" width="400px">
