@@ -1,4 +1,4 @@
-## Online Appendix
+# Online Appendix
 
 This page is an online appendix of the paper "Analysis of Large Market Data Using Neural Networks: A Causal Approach".
 Click on the links below to show interactive firm networks. Plots take several seconds to load.
