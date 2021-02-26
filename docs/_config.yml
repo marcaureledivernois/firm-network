@@ -14,7 +14,7 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - frontpage.md
+  - /docs/frontpage.md
 
 #include:
 #    - _pages
